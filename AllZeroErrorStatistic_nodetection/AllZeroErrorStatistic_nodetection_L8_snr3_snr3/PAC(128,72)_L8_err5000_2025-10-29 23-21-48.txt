@@ -1,0 +1,156 @@
+PAC(128-72)
+L = 8
+T = 3  Error Count = 5000 , Max Frame = 50000000000000
+Rate-profile = rm-polar
+design SNR = 3
+Convolution poly = , [1 0 1 1 0 1 1]
+CRC index = [15, 31, 47, 63, 79, 95, 111, 127] , CRC = 0 bits
+Frozen-check = , [84, 88, 97, 98, 100, 104, 112] , Frozen-check = 0 bits
+Mismatch = [82, 84, 88, 97, 98, 100, 104, 112] , Mismatch-length = 0 , Mismatch-first = True
+Enabling-Criterion =, Perfect
+Running : Normal SCL
+Decoding starting Time : 2025-10-29 23-21-48
+Running Time : 206 min
+
+
+SNR = [3]
+FER = [0.009769619822892674]
+average_decoding_attempt = [1.0]
+
+snr = 3
+index[0] = 0
+index[1] = 0
+index[2] = 0
+index[3] = 0
+index[4] = 0
+index[5] = 0
+index[6] = 0
+index[7] = 0
+index[8] = 0
+index[9] = 0
+index[10] = 0
+index[11] = 0
+index[12] = 0
+index[13] = 0
+index[14] = 0
+index[15] = 46
+index[16] = 0
+index[17] = 0
+index[18] = 0
+index[19] = 0
+index[20] = 0
+index[21] = 0
+index[22] = 0
+index[23] = 22
+index[24] = 0
+index[25] = 0
+index[26] = 0
+index[27] = 23
+index[28] = 0
+index[29] = 29
+index[30] = 13
+index[31] = 26
+index[32] = 0
+index[33] = 0
+index[34] = 0
+index[35] = 0
+index[36] = 0
+index[37] = 0
+index[38] = 0
+index[39] = 32
+index[40] = 0
+index[41] = 0
+index[42] = 0
+index[43] = 40
+index[44] = 0
+index[45] = 32
+index[46] = 35
+index[47] = 39
+index[48] = 0
+index[49] = 0
+index[50] = 0
+index[51] = 50
+index[52] = 0
+index[53] = 43
+index[54] = 39
+index[55] = 35
+index[56] = 0
+index[57] = 25
+index[58] = 34
+index[59] = 42
+index[60] = 41
+index[61] = 34
+index[62] = 45
+index[63] = 30
+index[64] = 0
+index[65] = 0
+index[66] = 0
+index[67] = 0
+index[68] = 0
+index[69] = 0
+index[70] = 0
+index[71] = 80
+index[72] = 0
+index[73] = 0
+index[74] = 0
+index[75] = 74
+index[76] = 0
+index[77] = 95
+index[78] = 100
+index[79] = 99
+index[80] = 0
+index[81] = 0
+index[82] = 1836
+index[83] = 940
+index[84] = 1877
+index[85] = 1897
+index[86] = 1400
+index[87] = 1654
+index[88] = 1922
+index[89] = 1676
+index[90] = 1498
+index[91] = 1698
+index[92] = 1676
+index[93] = 1911
+index[94] = 1729
+index[95] = 1632
+index[96] = 0
+index[97] = 3148
+index[98] = 2952
+index[99] = 2871
+index[100] = 3217
+index[101] = 3155
+index[102] = 2944
+index[103] = 2972
+index[104] = 3152
+index[105] = 2964
+index[106] = 3162
+index[107] = 2819
+index[108] = 3198
+index[109] = 3140
+index[110] = 3143
+index[111] = 2964
+index[112] = 3062
+index[113] = 3077
+index[114] = 2960
+index[115] = 3093
+index[116] = 3006
+index[117] = 3164
+index[118] = 3099
+index[119] = 3062
+index[120] = 3067
+index[121] = 3065
+index[122] = 3123
+index[123] = 2938
+index[124] = 3106
+index[125] = 3152
+index[126] = 3184
+index[127] = 3173
+sort index = [100 108 126 127 117 106 101 104 125  97 110 109 122 124 118 115 113 120
+ 121 112 119 116 103 105 111 114  98 102 123  99 107  88  93  85  84  82
+  94  91  89  92  87  95  90  86  83  78  79  77  71  75  51  15  62  53
+  59  60  43  47  54  46  55  58  61  39  45  63  29  31  57  27  23  30
+   0   1   2   3   4   5   6   7   8   9  10  11  12  13  14  16  17  18
+  19  20  21  22  24  25  26  28  32  33  34  35  36  37  38  40  41  42
+  44  48  49  50  52  56  64  65  66  67  68  69  70  72  73  74  76  80
+  81  96]
