@@ -1,0 +1,28 @@
+PAC(128-71)
+L = 8
+T = 3  Error Count = 1000 , Max Frame = 50000000000
+Rate-profile = rm-polar
+design SNR = 3
+Convolution poly = , [1 0 1 1 0 1 1]
+CRC index = [15, 31, 47, 63, 79, 95, 111, 127] , CRC = 0 bits
+Frozen-check = , [84, 88, 97, 98, 100, 104, 112] , Frozen-check = 7 bits
+Mismatch = [82, 84, 88, 97, 98, 100, 104, 112] , Mismatch-length = 0 , Mismatch-first = True
+Enabling-Criterion =, FrozenCheck
+Running : Normal SCL
+Decoding starting Time : 2025-11-10 01-49-11
+Running Time : 4017 min
+
+
+SNR = [3.5]
+FER = [9.672304077141892e-05]
+average_decoding_attempt = [1.0029036237514297]
+bit number = [8011]
+bit success = [5989]
+path number = [2022]
+path success = [1712]
+
+snr = 3.5
+TopK = [0.35800774 0.58344776 0.69329672 0.74759705 0.81113469 0.85644738
+ 0.88490825 0.90500562 0.91773811 0.92897266 0.93708651 0.94295344
+ 0.94682312 0.95031831 0.95381351 0.9555611  0.95718387 0.95855698
+ 0.96005492 0.96130321]
